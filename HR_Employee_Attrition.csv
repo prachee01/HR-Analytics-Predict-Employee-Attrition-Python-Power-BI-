@@ -1,0 +1,6 @@
+Age,Department,JobRole,MonthlyIncome,OverTime,JobSatisfaction,Attrition
+34,Sales,Sales Executive,5000,Yes,3,Yes
+28,HR,HR Executive,4200,No,4,No
+45,IT,Developer,6200,Yes,2,No
+36,Finance,Accountant,5800,No,3,No
+30,Sales,Sales Executive,4900,Yes,3,Yes
